@@ -1,1 +1,3 @@
-# LuisVegas10-LuisVegas10
+Un gusto
+
+Soy una Ing. en Informática
