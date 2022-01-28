@@ -4,4 +4,4 @@ Soy una Ingeniero en Informática
 
 <h2>Habilidades</h2>
 
-<ul><li style="background=rgb(255,0,0)">Java</li></ul>
+<ul><li style="background=FF5733">Java</li></ul>
