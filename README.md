@@ -1,7 +1,14 @@
-<h1>Un gusto</h1>
+<h1>Hola</h1>
 
-Soy una Ingeniero en Informática
+Mi nombre es Luis Vegas. Soy una Ingeniero en Informática
 
 <h2>Habilidades</h2>
-
-<ul><li style="background=FF5733">Java</li></ul>
+<ul>
+  <li>Java</li>
+  <li>Python</li>
+  <li>MySQL</li>
+  <li>JavaScript</li>
+  <li>Node.js</li>
+  <li>CSS</li>
+  <li>HTML</li>
+</ul>
