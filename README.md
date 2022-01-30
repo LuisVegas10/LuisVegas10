@@ -13,7 +13,7 @@ Como programador creo que cualquier experiencia puede ser útil para programar.
 
 <h2>Puedes encontrarme en </h2>
 
-Web: <a href="https://www.youtube.com/c/Programaci%C3%B3nATS" target="_blank">Ing. Vegas Luis</a>
+Web: <a href="https://www.youtube.com/c/Programaci%C3%B3nATS" target="_blank">Ing. Vegas Luis</a> <br />
 Correo: <a href="mailto:engineervegas10@gmail.com">engineervegas10@gmail.com</a>
 
 <h2>Habilidades</h2>
