@@ -1,7 +1,5 @@
 <h1>Hola</h1>
 
- Mi nombre es Luis Vegas. Soy Ingeniero en Informática.
-                
 Mi nombre es Luis Vegas. Soy Ingeniero en Informática.
                 
 Ubicado en Venezuela, en el estado del Zulia. Me gusta desarrollar aplicaciones, desde aplicaciones web hasta juego, que puedan dar un excelente servicio a los usuarios que vallan dirigidos.
